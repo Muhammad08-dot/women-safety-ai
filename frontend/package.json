@@ -1,0 +1,26 @@
+{
+  "name": "women-safety-ai-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -p 3005",
+    "build": "next build",
+    "start": "next start -p 3005",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "15.0.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "lucide-react": "^0.359.0",
+    "framer-motion": "^11.0.25",
+    "axios": "^1.6.8"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.30",
+    "@types/react": "^18.2.67",
+    "typescript": "^5.4.3",
+    "tailwindcss": "^3.4.1",
+    "autoprefixer": "^10.4.19"
+  }
+}
